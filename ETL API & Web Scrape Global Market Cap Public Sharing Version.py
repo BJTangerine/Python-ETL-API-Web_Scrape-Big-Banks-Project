@@ -1,5 +1,5 @@
 from bs4 import BeautifulSoup	# for web scrape.
-import requests					# for API call.
+import requests			# for API call.
 import pandas as pd
 from datetime import datetime	# for logging function.
 
